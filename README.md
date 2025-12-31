@@ -28,6 +28,21 @@ Neural style transfer is widely used in digital art, creative design tools, and 
 
     ● Matplotlib
 
+⚙️ 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗮𝗶𝗹𝘀
+
+The project uses a pre-trained neural network to extract content features from one image and style features from another. These features are combined to generate a new stylized image. The process is handled efficiently using TensorFlow Hub models.
+The code allows easy replacement of content and style images, making the project flexible and user-friendly.
+
+🌍 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+
+    • Digital art creation
+
+    • AI-assisted design tools
+
+    • Creative media and entertainment
+
+    • Visual content enhancement
+
 📊 𝗢𝘂𝘁𝗽𝘂𝘁
 
 ![Task3](https://github.com/user-attachments/assets/75bcb9c9-4366-4423-89c8-50b6ef9eb291)
