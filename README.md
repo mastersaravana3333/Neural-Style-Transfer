@@ -1,6 +1,15 @@
 # Neural-Style-Transfer
 A deep learning project that applies artistic styles to images using neural style transfer techniques and pre-trained models.
 
+
+    COMPANY : CODTECH IT SOLUTIONS
+    NAME : SARAVANA KUMAR P
+    INTERN-ID : E7168CC4F2588B07
+    DOMAIN : ARTIFICIAL INTELLIGENCE
+    DURATION : 4 WEEKS
+    MENTOR : NEELA SANTHOSH
+
+    
 🧠 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻
 
 This project implements Neural Style Transfer, a deep learning technique that applies the artistic style of one image to the content of another image. The result is a creative image that blends visual content with artistic patterns.
